@@ -1,1 +1,2 @@
-# CPTS101_2024
+Isaac Teo
+isaac.teo@wsu.edu
